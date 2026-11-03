@@ -1,4 +1,4 @@
 def saluer(nom):
     print("Bonjour", nom)
 
-print("Le module outil est chargé"
+print("Le module outil est chargé")
