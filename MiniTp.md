@@ -13,13 +13,13 @@
 ## Partie 1 – Se repérer dans le système
 
 **Question 1.** Ouvrir un terminal et afficher le chemin absolu du répertoire dans lequel vous vous trouvez.
-
+pwd
 **Question 2.** Afficher la liste des fichiers et dossiers présents dans le répertoire courant.
-
+ls ou tree
 **Question 3.** Afficher cette liste en incluant les fichiers cachés et les informations détaillées (permissions, propriétaire, taille, date de modification).
-
+ls -a
 **Question 4.** Se déplacer dans le répertoire `/home`, puis revenir dans son répertoire personnel.
-
+cd /home
 **Question 5.** Afficher l'arborescence des fichiers et dossiers présents dans votre répertoire personnel. Si la commande `tree` n'est pas installée, utiliser une autre méthode.
 
 ## Partie 2 – Créer et organiser des fichiers
